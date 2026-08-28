@@ -20,6 +20,10 @@ def find_common_followers(user1_followers: list[str], user2_followers: list[str]
     return followers_user1 & followers_user2
 
 
+
+
+
+
 # --- TASK A2: Unique Characters Check ---
 def has_all_unique_chars(text: str) -> bool:
     """
